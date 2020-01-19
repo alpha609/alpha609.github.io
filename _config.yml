@@ -1,11 +1,11 @@
 # Site settings
 author: Ralpheal Jackson
-title: 
+title: A Coders Hustle 
 header-img: img/home-bg.png
 email: jacksonralph609@gmail.com
 copyright_name: Ralpheal Jackson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Grind Time
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  alpha609
